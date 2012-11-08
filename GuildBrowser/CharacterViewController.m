@@ -7,7 +7,7 @@
 #import "WoWUtils.h"
 #import "Guild.h"
 #import "SetttingsViewController.h"
-// test remote git  push  
+// test remote git  push   
 @interface CharacterViewController ()
 @end
 
