@@ -7,14 +7,14 @@
 #import "WoWUtils.h"
 #import "Guild.h"
 #import "SetttingsViewController.h"
-
+// test remote git  push
 @interface CharacterViewController ()
 @end
 
 @implementation CharacterViewController
 {
     NSArray *_sectionNames;
-    Guild *_guild;
+    Guild *_guild; 
     
     NSString *_guildName;
     NSString *_realmName;
